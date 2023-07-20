@@ -5,7 +5,19 @@
 <h3 align="center"><h2 >I'm Josue Gomez Omaña!</h2>
  A passionate software developer with a clear vision of driving Industry 4.0 forward. 🤖</h3>
 
-- I am determined to join a company that shares my passion and unwavering desire to transform the world through innovative and cutting-edge technology solutions. I am excited to be part of a committed team that addresses current and future challenges with boldness and resiliency. Together, we can make a difference and leave a lasting mark on the industry.
+ Since the beginning of my career, I have been drawn to the limitless possibilities that this technological revolution offers to transform the world and improve people's lives.
+
+My path in software development has been an exciting journey, where I have combined intelligence and creativity to create innovative solutions. With strong skills in web programming languages like HTML, CSS, and JavaScript, I've built modern, engaging interfaces that enhance the user experience and create a positive impact.
+
+My passion for Industry 4.0 has been reflected in my constant dedication to staying up to date with the latest trends and technologies. I have expanded my knowledge in frameworks such as React and Angular, which has allowed me to develop high-performance and interactive mobile applications and websites.
+
+I am a passionate advocate of emotional intelligence in the workplace, firmly believing that teamwork and collaboration are critical to the success of any project. My ability to communicate effectively and listen to others has allowed me to build strong relationships with colleagues and clients, and work synergistically to achieve outstanding results.
+
+Every new challenge in the world of front-end development is an opportunity to demonstrate my commitment to excellence. My focus on quality and attention to detail is evident in every line of code I write, always seeking to exceed expectations and deliver the highest quality products.
+
+At every step of my career, I have kept the spark of excitement and enthusiasm for Industry 4.0 burning. I firmly believe that the possibilities are endless and I am determined to be an active driver of this technological transformation.
+
+I am excited to continue exploring, learning and growing in this exciting world of Industry 4.0 front-end development and I look forward to being part of dynamic teams that share my passion and vision to build a better future!
 
 
 
