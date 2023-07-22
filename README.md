@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/109303513/255354690-6d894daf-4d23-458a-bb13-1452d86dd84a.png" alt="tarjeta de presentacion" width="100%" height="auto"/> 
+<img src="https://user-images.githubusercontent.com/109303513/255354794-408a3fe6-d515-4eb7-a100-f33d3e197050.png" alt="tarjeta de presentacion" width="100%" height="auto"/> 
 <br><br>
 
 <h1 align="left">Hello, Welcome, this is my personal space, I hope you like it!👋</h1>
