@@ -2,23 +2,25 @@
 <br><br>
 
 <h1 align="left">Hola, bienvenido, este es mi espacio personal, ¡espero que te guste!👋</h1>
-<h3 align="center"><h2 >Soy Josue Gomez Omaña!</h2>
- Un desarrollador de software apasionado con una visión clara de impulsar la Industria 4.0.🤖</h3>
+<h3 align="center"><h2 >Soy Josue Gomez Omaña!</h2>🤖</h3>
 
- Desde el comienzo de mi carrera, me he sentido atraído por las posibilidades ilimitadas que ofrece esta revolución tecnológica para transformar el mundo y mejorar la vida de las personas.
+¡Soy desarrollador Front-End! 🧠 , apasionado por la transformación digital y la Industria 4.0. 🤖 Con mucha experiencia en desarrollo de software, me he especializado en crear experiencias de usuario atractivas y funcionales para aplicaciones móviles y sitios web con el manejo de UI / UX. ✨
 
-Mi camino en el desarrollo de software ha sido un viaje apasionante, donde he combinado inteligencia y creatividad para crear soluciones innovadoras. Con sólidas habilidades en lenguajes de programación web como HTML, CSS y JavaScript, he creado interfaces modernas y atractivas que mejoran la experiencia del usuario y crean un impacto positivo.
+Mi enfoque principal se centra en utilizar mi dominio en HTML, CSS y JavaScript nativo, donde logro obtener un profundo entendimiento y establecer una base sólida en las herramientas, lo que me permite comprender de manera sencilla los diferentes frameworks que hay en el mercado actualmente, así como React y Angular, para dar vida a ideas innovadoras y convertirlas en productos interactivos de alto rendimiento. 🔧
 
-Mi pasión por la Industria 4.0 se ha reflejado en mi constante dedicación para estar al día con las últimas tendencias y tecnologías. He ampliado mis conocimientos en frameworks como React y Angular, lo que me ha permitido desarrollar aplicaciones móviles y sitios web interactivos y de alto rendimiento.
+Mi amor por la Industria 4.0 me ha impulsado a mantenerme actualizado con las últimas tendencias y tecnologías en el campo del desarrollo web, permitiéndome aportar soluciones creativas y a la vanguardia. 🏆
 
-Soy un apasionado defensor de la inteligencia emocional en el lugar de trabajo, y creo firmemente que el trabajo en equipo y la colaboración son fundamentales para el éxito de cualquier proyecto. Mi capacidad para comunicarme de manera efectiva y escuchar a los demás me ha permitido construir relaciones sólidas con colegas y clientes, y trabajar de manera sinérgica para lograr resultados sobresalientes.
+A lo largo de mi trayectoria, he colaborado en proyectos significativos que han abordado desafíos de la vida real, como  aplicaciones especializadas para el aprendizaje de Braille para personas ciegas 🧑‍🦯en el Instituto CIFUNHI, gestionar asistencias en tiempos de pandemia con Aplicacion Mobile, en la Universidad Tecnológica de la Zona Metropolitana del Valle de México 😷.
 
-Cada nuevo desafío en el mundo del desarrollo front-end es una oportunidad para demostrar mi compromiso con la excelencia. Mi enfoque en la calidad y la atención al detalle es evidente en cada línea de código que escribo, siempre buscando superar las expectativas y ofrecer productos de la más alta calidad.
+Soy un firme creyente de la importancia de la inteligencia emocional en el entorno laboral, lo que me ha permitido establecer conexiones sólidas con colegas y clientes, trabajar en equipos colaborativos y abordar proyectos con una mentalidad proactiva y solucionadora. 🤝
 
-En cada paso de mi carrera, he mantenido encendida la chispa de entusiasmo y entusiasmo por la Industria 4.0. Creo firmemente que las posibilidades son infinitas y estoy decidido a ser un impulsor activo de esta transformación tecnológica.
+Mi perfil de habilidades incluye el dominio de lenguajes de programación web, habilidades en diseño responsivo, manejo de bases de datos y experiencia con control de versiones. Además, me destaco por mi capacidad para adaptarme a diferentes situaciones y aprender de manera rápida y efectiva. 🧠
 
-¡Estoy emocionado de continuar explorando, aprendiendo y creciendo en este apasionante mundo del desarrollo front-end de la Industria 4.0 y espero ser parte de equipos dinámicos que compartan mi pasión y visión para construir un futuro mejor!
+Como desarrollador front-end, mi objetivo es seguir creciendo en la industria tecnológica 🤖 , explorar nuevas oportunidades en AI, IoT y ciencia de datos, y ser parte de equipos dinámicos que compartan mi pasión por la innovación y el desarrollo de soluciones que transformen positivamente la vida de las personas. 📌
 
+Si buscas a alguien que fusiona inteligencia, creatividad y emoción en el desarrollo de software, estoy emocionado por conectarme contigo y ser parte de proyectos que marquen la diferencia en la era digital. 🎨
+
+¡Gracias por visitar mi perfil y espero poder colaborar contigo en el emocionante mundo del desarrollo front-end! ✨
 
 
 - 💻Actualmente realizo una pasantía Gestionando y Consultoría de Videos de Audiencias Penales del Poder Judicial del Estado de Hidalgo. **Aplicación de Gestión y Consulta de Videos de Audiencias Penales**
