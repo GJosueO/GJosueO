@@ -37,7 +37,7 @@ Si buscas a alguien que fusiona inteligencia, creatividad y emoción en el desar
 <p align="left">
 <a href="https://linkedin.com/in/josue-go" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josue-go" height="30" width="40" /></a>
 <a href="https://codepen.io/Josue-GO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="@josue-go" height="30" width="40" /></a>
-<a href="https://www.facebook.com/josue.gomez.7.ariett5joshua.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joshua go" height="30" width="40" /></a>
+
 <a href="https://instagram.com/josuegzariett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josuegzariett" height="30" width="40" /></a>
 </p>
 
